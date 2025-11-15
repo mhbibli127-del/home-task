@@ -1,0 +1,108 @@
+body{
+background-image: url(login-bg.webp);
+background-repeat: no-repeat;
+background-size: cover;
+}
+*{
+box-sizing: border-box;
+}
+
+form{
+width: 350px;
+margin: 0 auto;
+display: flex;
+flex-direction: column;
+gap: 5px;
+border: 7px solid silver;
+border-radius: 10px;
+padding: 20px;
+position: relative;
+top: 300px;
+background-image: url(OIP.webp);
+background-repeat: no-repeat;
+background-size: 100% 550px;
+
+}
+
+.Login{
+text-align: center;
+font-size: 30px;
+font-weight: 900;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(255, 255, 255);
+
+}
+
+.input-1{
+width: 90%;
+height: 50px;
+border-radius: 20px;
+
+}
+
+.button-1{
+
+border-radius: 25px; 
+}
+
+.button-2{
+ border-radius: 25px; 
+}
+
+
+.input-2{
+ width: 90%;
+height: 50px;
+border-radius: 20px;
+}
+.checkbox-1{
+margin-right: 260px;
+}
+
+.word-1{
+position: relative;
+bottom: 38px;
+left: 30px;
+color: white;
+}  
+
+.forgot-1{
+display: flex;
+justify-content: flex-end;
+position: relative;
+bottom: 93px;
+color: white;
+
+}
+
+.button{
+border-radius: 25px; 
+ width: 90%;
+height: 50px;
+position: relative;
+left: 15px;
+bottom: 70px;
+}
+
+.accaunt-1{
+position: relative;
+left: 25px;
+bottom: 85px;
+color: white;
+}
+
+a{
+position: relative;
+left: 175px;
+bottom: 124px;
+color: white;
+text-decoration: none;
+font-weight: 900;
+}
+
+
+
+  
+
+
+
